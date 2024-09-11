@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
+
+* {
+  box-sizing: content-box;
+}
+
+html {
+  font-family: "Overpass";
+  font-size: 0.94rem;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}

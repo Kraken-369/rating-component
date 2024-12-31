@@ -1,0 +1,10 @@
+:root {
+  --main-font: "Overpass";
+  --standard-font-size: 0.94rem;
+
+  --black: hsl(228, 11.1%, 8.8%);
+  --white: hsl(180, 100%, 99.4%);
+  --orange: hsl(28, 97.5%, 53.1%);
+  --gray: hsl(149, 100%, 6.5%);
+  --white-alpha: rgba(255, 255, 255, 0.1);
+}

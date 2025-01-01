@@ -74,6 +74,10 @@ h1, p {
   width: 100%;
 }
 
+.card button:hover {
+  background-color: var(--white);
+}
+
 .star-container {
   align-items: center;
   background-color: var(--white-alpha);
@@ -99,4 +103,10 @@ h1, p {
   line-height: 50px;
   text-align: center;
   width: 50px;
+}
+
+.item:hover {
+  background-color: var(--white);
+  color: var(--black);
+  cursor: pointer;
 }
